@@ -1411,6 +1411,99 @@ a {
     margin-bottom: 2rem;
   }
 }
+.cid-teuJo0buCp {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-teuJo0buCp .showAlerts {
+  display: block !important;
+}
+.cid-teuJo0buCp .rowflexrev {
+  display: -webkit-flex;
+}
+.cid-teuJo0buCp .title {
+  margin-bottom: 2rem;
+}
+.cid-teuJo0buCp .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-teuJo0buCp textarea.form-control {
+  min-height: 188px;
+}
+.cid-teuJo0buCp LABEL {
+  color: #232323;
+  display: initial;
+}
+.cid-teuJo0buCp .mbr-section-terms {
+  text-align: center;
+  color: #232323;
+  margin-bottom: 0px;
+}
+.cid-teuJo0buCp .mbr-section-labels {
+  color: #232323;
+  padding: 0;
+  margin-bottom: .357em;
+  text-align: left;
+}
+.cid-teuJo0buCp .mbr-section-autorespond {
+  text-align: left;
+  color: #232323;
+  margin-bottom: 0px;
+}
+.cid-teuJo0buCp .mbr-section-gdpr {
+  text-align: left;
+  color: #232323;
+  margin-bottom: 0px;
+}
+.cid-teuJo0buCp .alert {
+  margin-bottom: 0;
+}
+.cid-teuJo0buCp .alert-success {
+  background-color: #70c770;
+}
+.cid-teuJo0buCp .alert-danger {
+  background-color: #ff4a52;
+}
+.cid-teuJo0buCp .btn {
+  display: inline-flex;
+}
+.cid-teuJo0buCp .mbr-alert-success {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-teuJo0buCp .mbr-alert-danger {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-teuJo0buCp .uploadBtn {
+  padding-top: 13px !important;
+  padding-left: 12.5px !important;
+}
+.cid-teuJo0buCp input[type=file]::file-selector-button {
+  border: 1px solid #232323 !important;
+  padding: .2em .4em;
+  border-radius: .2em;
+  background-color: #cccccc !important;
+  color: #232323 !important;
+  transition: 0.3s;
+}
+.cid-teuJo0buCp input[type=file]::-webkit-file-upload-button {
+  border: 1px solid #232323 !important;
+  padding: .2em .4em;
+  border-radius: .2em;
+  background-color: #cccccc !important;
+  color: #232323 !important;
+  transition: 0.3s;
+}
+.cid-teuJo0buCp input[type=file]::-ms-browse {
+  border: 1px solid #232323 !important;
+  padding: .2em .4em;
+  border-radius: .2em;
+  background-color: #cccccc !important;
+  color: #232323 !important;
+  transition: 0.3s;
+}
 .cid-sFzDs3t9EG {
   padding-top: 8rem;
   padding-bottom: 8rem;
