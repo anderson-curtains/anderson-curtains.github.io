@@ -1140,8 +1140,6 @@ a {
   width: 100%;
 }
 .cid-sFzxmVl7J6 {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
   background-image: url("../../../assets/images/152541367416858404-750-750x500.jpg");
 }
 .cid-sFzxmVl7J6 .row {
@@ -1159,6 +1157,7 @@ a {
 @media (min-width: 992px) {
   .cid-sFzxmVl7J6 .text-wrapper {
     padding: 0 2rem;
+    padding: 0 4rem;
   }
 }
 @media (max-width: 768px) {
