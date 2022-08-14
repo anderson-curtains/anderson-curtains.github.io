@@ -46,7 +46,17 @@
     "imageResize": true,
     "publishChangesOnly": true,
     "uniqCompNum": 0,
-    "versionPublish": "5.6.11"
+    "versionPublish": "5.6.11",
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "mbrsiteDomain": "adscnb",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
