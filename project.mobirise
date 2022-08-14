@@ -970,42 +970,6 @@
         {
           "alias": false,
           "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "background-color": "@bgColor",
-            "img": {
-              "width": "120px",
-              "margin": "auto"
-            },
-            ".card": {
-              "transition": "all 0.3s",
-              "height": "fit-content",
-              "padding": "1rem 0",
-              "opacity": "0.7",
-              "margin-bottom": "1rem"
-            },
-            "@media (min-width: 992px)": {
-              ".card": {
-                "max-width": "12.5%"
-              }
-            },
-            ".mbr-section-subtitle": {
-              "color": "#353535"
-            }
-          },
-          "_name": "clients1",
-          "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"clients1\" group=\"Clients\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"10\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"range\" inline title=\"Items\" name=\"items\" min=\"1\" max=\"8\" value=\"8\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#fafafa\">\n    </mbr-parameters>\n    <div class=\"images-container\" mbr-class=\"{'container-fluid':fullWidth, container:fullWidth==false}\">\n        <div class=\"mbr-section-head\">\n            <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                <b>Our Clients</b>\n            </h3>\n            <h4 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showSubTitle\" data-app-selector=\".mbr-section-subtitle\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h4>\n            <p class=\"mbr-text mbr-fonts-style align-center mt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                Click on an image in this block to replace it. Set the number of logos in Block Parameters. </p>\n        </div>\n        <div class=\"row justify-content-center mt-4\">\n            <div class=\"col-md-3 card\">\n                <img src=\"../components/_images/clients/1.png\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 1\">\n                <img src=\"../components/_images/clients/2.png\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 2\">\n                <img src=\"../components/_images/clients/3.png\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 3\">\n                <img src=\"../components/_images/clients/4.png\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 4\">\n                <img src=\"../components/_images/clients/2.png\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 5\">\n                <img src=\"../components/_images/clients/3.png\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 6\">\n                <img src=\"../components/_images/clients/4.png\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 7\">\n                <img src=\"../components/_images/clients/5.png\" alt=\"Mobirise Website Builder\">\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "sFAw7z51L3",
-          "_anchor": "clients1-1u",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = \"color\")": {

@@ -1302,30 +1302,6 @@ a {
 .cid-sFzErVWEaH .mbr-section-title1 {
   color: #000000;
 }
-.cid-sFAw7z51L3 {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-color: #fafafa;
-}
-.cid-sFAw7z51L3 img {
-  width: 120px;
-  margin: auto;
-}
-.cid-sFAw7z51L3 .card {
-  transition: all 0.3s;
-  height: fit-content;
-  padding: 1rem 0;
-  opacity: 0.7;
-  margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-sFAw7z51L3 .card {
-    max-width: 12.5%;
-  }
-}
-.cid-sFAw7z51L3 .mbr-section-subtitle {
-  color: #353535;
-}
 .cid-sFAyMcKwph {
   padding-top: 120px;
   padding-bottom: 120px;
