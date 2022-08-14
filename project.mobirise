@@ -34,7 +34,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-08-14_1549",
+    "name": "Anderson Curtains and Blinds",
     "versionFirst": "5.6.11",
     "siteFonts": [
       {
@@ -68,7 +68,7 @@
     "uniqCompNum": 2,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/transparent-icon-128x144.png",
     "mbrsiteDomain": "adscnb",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -76,7 +76,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "witsec-mailform": false
   },
   "pages": {
     "index.html": {
